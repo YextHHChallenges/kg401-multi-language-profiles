@@ -1,0 +1,11 @@
+{
+  "$id": "Answers-Results-Page",
+  "$schema": "https://schema.yext.com/config/pages/site-config/v1",
+  "features": [
+    {
+      "feature": "Answers-Results-Template",
+      "featureType": "SELF_SERVE_PAGE_SET"
+    }
+  ],
+  "siteName": "Answers Results Page"
+}

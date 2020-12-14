@@ -1,0 +1,20 @@
+{
+  "$id": "CS-4",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "content": {
+    "c_goal": "Bring unity and joy to all",
+    "c_localNonProfits": [
+      "Pride 4 All",
+      "Youth Rainbow Fund"
+    ],
+    "c_theme": [
+      "EDUCATION"
+    ],
+    "yext/description": "Partnering with local advocacy groups, Turtlehead Tacos celebrates Pride Month in Virginia. Sponsored by Bill Clinton and George W Bush together, the Turtlehead team raised awareness and money for youth groups in the area. Oh, and they had fun and ate tacos!",
+    "yext/landingPageUrl": "http://www.turtleheadtacos.com/bridgeandgroomcelebrate",
+    "yext/name": "Turtlehead Pride Parade",
+    "yext/organizerEmail": "jjohnson@turtleheadtacos.com"
+  },
+  "entityType": "ce_communityStory",
+  "labels": []
+}

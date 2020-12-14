@@ -1,0 +1,183 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "answers",
+  "name": "answers",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "communityStories": {
+      "entityTypes": [
+        "ce_communityStory"
+      ],
+      "name": "Community Stories",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_goal": {
+          "textSearch": true
+        },
+        "c_theme": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "events": {
+      "entityTypes": [
+        "event"
+      ],
+      "name": "Events",
+      "savedSearchId": "125019244",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        },
+        "time.start": {
+          "sortable": true
+        }
+      },
+      "sortBys": [
+        {
+          "type": "RELEVANCE"
+        },
+        {
+          "direction": "ASC",
+          "field": "time.start",
+          "type": "FIELD"
+        }
+      ],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "faqs": {
+      "entityTypes": [
+        "faq"
+      ],
+      "name": "FAQs",
+      "savedSearchId": "121202151",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "keywords": {
+          "textSearch": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER",
+      "verticalIntents": {
+        "blacklistedIntents": [],
+        "boostingIntents": [
+          {
+            "boost": 50,
+            "phrase": "turtleheads"
+          }
+        ]
+      }
+    },
+    "jobs": {
+      "entityTypes": [
+        "job"
+      ],
+      "name": "Jobs",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "c_jobDepartment": {
+          "nlpFilter": true
+        },
+        "employmentType": {
+          "nlpFilter": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    },
+    "restaurants": {
+      "entityTypes": [
+        "restaurant"
+      ],
+      "name": "Restaurants",
+      "savedSearchId": "112002255",
+      "searchableFields": {
+        "builtin.entityType": {
+          "nlpFilter": true
+        },
+        "builtin.location": {
+          "nlpFilter": true
+        },
+        "c_promotingEvents.name": {
+          "nlpFilter": true
+        },
+        "c_restaurantFeatures": {
+          "facet": true,
+          "nlpFilter": true
+        },
+        "c_restaurantType": {
+          "facet": true
+        },
+        "mainPhone": {
+          "directAnswer": true
+        },
+        "name": {
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": [
+      "Restaurants near me",
+      "Do you offer delivery?",
+      "Events",
+      "Do you sell gift cards?",
+      "Community stories",
+      "Open jobs"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [
+      {
+        "phrase": "nest",
+        "synonyms": [
+          "restaurant"
+        ]
+      },
+      {
+        "phrase": "order online",
+        "synonyms": [
+          "delivery"
+        ]
+      }
+    ],
+    "synonymSet": [
+      [
+        "location",
+        "restaurant",
+        "food joint",
+        "taco shop",
+        "eatery",
+        "locations"
+      ]
+    ]
+  },
+  "localizations": {}
+}
