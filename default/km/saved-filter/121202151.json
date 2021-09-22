@@ -12,7 +12,7 @@
     "entityType": [
       {
         "entityTypeId": [
-          "yext/faq"
+          "faq"
         ],
         "type": "IS"
       }
@@ -20,7 +20,7 @@
     "fieldsWithData": [
       {
         "fieldId": [
-          "yext/answer"
+          "answer"
         ],
         "type": "ANY"
       }

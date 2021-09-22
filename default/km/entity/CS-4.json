@@ -10,10 +10,10 @@
     "c_theme": [
       "EDUCATION"
     ],
-    "yext/description": "Partnering with local advocacy groups, Turtlehead Tacos celebrates Pride Month in Virginia. Sponsored by Bill Clinton and George W Bush together, the Turtlehead team raised awareness and money for youth groups in the area. Oh, and they had fun and ate tacos!",
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com/bridgeandgroomcelebrate",
-    "yext/name": "Turtlehead Pride Parade",
-    "yext/organizerEmail": "jjohnson@turtleheadtacos.com"
+    "description": "Partnering with local advocacy groups, Turtlehead Tacos celebrates Pride Month in Virginia. Sponsored by Bill Clinton and George W Bush together, the Turtlehead team raised awareness and money for youth groups in the area. Oh, and they had fun and ate tacos!",
+    "landingPageUrl": "http://www.turtleheadtacos.com/bridgeandgroomcelebrate",
+    "name": "Turtlehead Pride Parade",
+    "organizerEmail": "jjohnson@turtleheadtacos.com"
   },
   "entityType": "ce_communityStory",
   "labels": []

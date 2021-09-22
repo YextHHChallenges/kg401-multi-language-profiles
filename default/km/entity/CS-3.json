@@ -10,10 +10,10 @@
     "c_theme": [
       "HUNGER_\u0026_HOMELESSNESS"
     ],
-    "yext/description": "Through our Thank You Farmers Project, Turtlehead proudly supports agricultural education initiatives, such as FFA, every single day of the year. After all, today’s students are tomorrow’s agricultural leaders who are tasked with feeding our population. \n \n Click below to see the ways we worked to help ensure our food supply in 2020. Catch Bono \u0026 Britney singing a duet as well.",
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com/thankyoufarmersproject",
-    "yext/name": "Thank you Farmers Project",
-    "yext/organizerEmail": "jjohnson@turtleheadtacos.com"
+    "description": "Through our Thank You Farmers Project, Turtlehead proudly supports agricultural education initiatives, such as FFA, every single day of the year. After all, today’s students are tomorrow’s agricultural leaders who are tasked with feeding our population. \n \n Click below to see the ways we worked to help ensure our food supply in 2020. Catch Bono \u0026 Britney singing a duet as well.",
+    "landingPageUrl": "http://www.turtleheadtacos.com/thankyoufarmersproject",
+    "name": "Thank you Farmers Project",
+    "organizerEmail": "jjohnson@turtleheadtacos.com"
   },
   "entityType": "ce_communityStory",
   "labels": []

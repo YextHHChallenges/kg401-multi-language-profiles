@@ -48,22 +48,22 @@
     ],
     "c_restaurantType": "DINE-IN_RESTAURANT",
     "c_territory": "Texas",
-    "yext/address": {
+    "address": {
       "city": "Tyler",
       "countryCode": "US",
       "line1": "115 W SW Loop 323",
       "postalCode": "75701",
       "region": "TX"
     },
-    "yext/attire": "CASUAL",
-    "yext/closed": true,
-    "yext/description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
-    "yext/featuredMessage": {
+    "attire": "CASUAL",
+    "closed": true,
+    "description": "Hungry for Tacos? Fan of \"Chips \u0026 Guac\"? Turtlehead Tacos is the destination for you. With locations globally, we pride ourselves in providing our customers with the most delicious, fresh tacos daily. Visit us in [[address.city]], [[address.region]] today!",
+    "featuredMessage": {
       "description": "Order online today",
       "url": "http://www.turtleheadtacos.com"
     },
-    "yext/geomodifier": "Tyler",
-    "yext/hours": {
+    "geomodifier": "Tyler",
+    "hours": {
       "friday": {
         "isClosed": true
       },
@@ -86,8 +86,8 @@
         "isClosed": true
       }
     },
-    "yext/landingPageUrl": "http://www.turtleheadtacos.com",
-    "yext/logo": {
+    "landingPageUrl": "http://www.turtleheadtacos.com",
+    "logo": {
       "image": {
         "height": 150,
         "thumbnails": [
@@ -101,9 +101,9 @@
         "width": 150
       }
     },
-    "yext/mainPhone": "+19035553711",
-    "yext/name": "Turtlehead Tacos - Closed",
-    "yext/photoGallery": [
+    "mainPhone": "+19035553711",
+    "name": "Turtlehead Tacos - Closed",
+    "photoGallery": [
       {
         "description": "Our favorite ground beef tacos",
         "image": {
@@ -136,15 +136,15 @@
         }
       }
     ],
-    "yext/priceRange": "ONE",
-    "yext/timezone": "America/Chicago",
-    "yext/websiteUrl": {
+    "priceRange": "ONE",
+    "timezone": "America/Chicago",
+    "websiteUrl": {
       "displayUrl": "[[landingPageUrl]]",
       "preferDisplayUrl": false,
       "url": "[[landingPageUrl]]"
     }
   },
-  "entityType": "yext/restaurant",
+  "entityType": "restaurant",
   "folder": "e53decf883a0425d84d064a8f7cc6685",
   "labels": [
     "3ea67e966bb04104868f239a133a8392"

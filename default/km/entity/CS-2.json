@@ -10,10 +10,10 @@
     "c_theme": [
       "ENVIRONMENT"
     ],
-    "yext/description": "Turtlehead Tacos has officially partnered with Environment Extension, a company that exposes students to outdoor activities and teaches them to preserve their surrounding environment. Together we\u0027ve provided outdoor programming for at-risk and underprivileged students so they can get outside and enjoy the outdoors. The members of One Direction participated as well.",
-    "yext/landingPageUrl": "http://turtleheadtacos.com/outdoorextension",
-    "yext/name": "Turtlehead Partners with Environment Extension",
-    "yext/organizerEmail": "jjohnson@turtleheadtacos.com"
+    "description": "Turtlehead Tacos has officially partnered with Environment Extension, a company that exposes students to outdoor activities and teaches them to preserve their surrounding environment. Together we\u0027ve provided outdoor programming for at-risk and underprivileged students so they can get outside and enjoy the outdoors. The members of One Direction participated as well.",
+    "landingPageUrl": "http://turtleheadtacos.com/outdoorextension",
+    "name": "Turtlehead Partners with Environment Extension",
+    "organizerEmail": "jjohnson@turtleheadtacos.com"
   },
   "entityType": "ce_communityStory",
   "labels": []

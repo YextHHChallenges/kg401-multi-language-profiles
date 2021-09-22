@@ -2,5 +2,5 @@
   "$id": "organization",
   "$schema": "https://schema.yext.com/config/km/entity-type-extension/v1",
   "enabled": true,
-  "entityType": "yext/organization"
+  "entityType": "organization"
 }
